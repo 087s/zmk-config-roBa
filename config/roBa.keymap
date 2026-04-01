@@ -100,7 +100,7 @@
 
         NUM {
             bindings = <
-&kp AT_SIGN       &kp AMPERSAND      &kp TILDE       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS                                           &kp MINUS        &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp PLUS
+&kp AT_SIGN       &kp AMPERSAND      &kp TILDE       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS                                           &kp MINUS        &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp RS(PLUS)
 &kp QUESTION      &kp EXCL           &kp CARET       &kp HASH              &kp DOLLAR             &kp LC(LA(PERCENT))      &kp UNDERSCORE  &kp SLASH        &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp ASTERISK
 &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE  &kp RIGHT_BRACE       &kp BACKSLASH          &kp PIPE                 &trans          &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp PERIOD
 &trans            &trans             &trans          &trans                &trans                 &trans                   &trans          &trans                                                              &kp EQUAL

@@ -128,7 +128,7 @@
             bindings = <
 &kp JP_AT        &kp JP_AMPERSAND  &kp JP_TILDE   &kp JP_LPAREN  &kp JP_RPAREN                                        &kp MINUS        &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_PLUS
 &kp QUESTION     &kp EXCL          &kp JP_CARET   &kp HASH       &kp DOLLAR     &kp LS(LG(S))      &kp JP_UNDERSCORE  &kp SLASH        &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp JP_ASTERISK
-&kp JP_LBRACKET  &kp JP_RBRACKET   &kp JP_LBRACE  &kp JP_RBRACE  &kp PRCNT      &kp JP_P           &trans             &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp PERIOD
+&kp JP_LBRACKET  &kp JP_RBRACKET   &kp JP_LBRACE  &kp JP_RBRACE  &kp PRCNT      &kp JP_PIPE        &trans             &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp PERIOD
 &trans           &trans            &trans         &trans         &trans         &trans             &trans             &trans                                                              &kp JP_EQUAL
             >;
         };

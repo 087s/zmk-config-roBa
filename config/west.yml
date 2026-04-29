@@ -4,13 +4,22 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: kumamuk-git
       url-base: https://github.com/kumamuk-git
+    - name: badjeff
+      url-base: https://github.com/badjeff
+    - name: janpfischer
+      url-base: https://github.com/janpfischer
+
   projects:
     - name: zmk
       remote: zmkfirmware
       revision: v0.3-branch
       import: app/west.yml
     - name: zmk-pmw3610-driver
-      remote: kumamuk-git
+      remote: badjeff
+      revision: zmk-0.3
+    - name: zmk-dongle-screen
+      remote: janpfischer
       revision: main
+
   self:
     path: config

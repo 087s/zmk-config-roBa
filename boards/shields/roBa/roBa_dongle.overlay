@@ -1,4 +1,4 @@
-#include "FrostOrtho.dtsi"
+#include "roBa.dtsi"
 
 &kscan0 {
 	status = "disabled";
